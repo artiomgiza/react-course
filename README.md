@@ -1,3 +1,8 @@
+## Resources
+https://www.youtube.com/watch?v=Dorf8i6lCuk&t=1672s
+https://github.com/academind/react-complete-guide-code/tree/zz-reactjs-summary/extra-files
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
