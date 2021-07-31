@@ -1,6 +1,10 @@
 ## Resources
-https://www.youtube.com/watch?v=Dorf8i6lCuk&t=1672s
+https://www.youtube.com/watch?v=Dorf8i6lCuk
 https://github.com/academind/react-complete-guide-code/tree/zz-reactjs-summary/extra-files
+
+## starting 
+npm i                 
+npm start      
 
 
 # Getting Started with Create React App
